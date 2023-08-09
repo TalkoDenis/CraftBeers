@@ -1,3 +1,3 @@
-# Craft_Beers
+# Крафтовое пиво
 
-Craft Beers Dataset - 2K+ craft canned beers from the US and 500+ breweries in the United States.
+Когда-то давным давно я увлекался домашним пивоварением. И наткнулся на потрясающий датасет! Результатами работы с этим датасетом я и спешу с вами поделиться!
